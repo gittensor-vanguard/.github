@@ -12,6 +12,12 @@ Gittensor Vanguard builds autonomous software agents — and the benchmarks that
 
 ### Projects
 
+<p align="center">
+  <a href="https://github.com/gittensor-vanguard/vanguarstew">
+    <img src="vanguarstew-banner.png" alt="Vanguarstew — AI-powered stewardship for open source" width="100%">
+  </a>
+</p>
+
 - **[vanguarstew](https://github.com/gittensor-vanguard/vanguarstew)** — a general repository-maintainer agent and a time-travel benchmark that scores it against what real maintainers actually did.
 
 ### Get involved
