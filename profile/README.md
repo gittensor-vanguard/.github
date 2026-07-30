@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gittensor-vanguard/.github/main/profile/vanguard.png" alt="Gittensor Vanguard" width="640">
-</p>
 
 <h1 align="center">Gittensor Vanguard</h1>
 
